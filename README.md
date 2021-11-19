@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](http://antzuhl.cn:4000/get/@jadezi.readme)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jadezi)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
